@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**annarosenthal/annarosenthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Anna and I'm currently a software engineer at Github on the Actions Compute team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My favorite programming language is Go 🐨 and I'm generally interested in wrangling complex distributed systems 🧫
+- I like 🐱 and 🐶, ☕ and 🍵, New York and LA 
+- 📜 I occasionaly publish [what I write](https://nnrsntl.medium.com/)
+- 🐦 I [like other people's tweets](https://twitter.com/nnrsntl)
+- 🗽 I'm a hardcore New Yorker (80% Mahnattan, 13% the Bronx, 7% Brooklyn) but also feel at home in Montreal and Berlin
+- 🎼 My favorite musicians are Rhye, Agnes Obel and Hania Rani
+
+
+- 🔭 I’m currently interested in the topic of cultivating a sense of community in remote work environments
+- 🌊 I'm forever interested in existentialism, sustainability and crushing the heteropatriarchy 
+- 💬 Ask me about: Esther Perel, Moira Rose's style, Byredo perfumes and how Birkenstocks got me through the pandemic
