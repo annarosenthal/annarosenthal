@@ -9,8 +9,7 @@ My name is Anna and I'm currently a software engineer at Github on the Actions C
 - 🎼 My favorite musicians are Rhye, Agnes Obel and Hania Rani
 - 📜 I [occasionaly write](https://nnrsntl.medium.com/)
 - 🐦 I like [other people's tweets](https://twitter.com/nnrsntl)
-
 ______
 - 🔭 I’m currently interested in the topic of cultivating a sense of community in remote work environments
 - 🌊 I'm forever interested in existentialism, sustainability and crushing the heteropatriarchy 
-- 💬 Ask me about: Esther Perel, style of Moira Rose, Byredo perfumes and how re-discovering Birkenstocks got me through the pandemic
+- 💬 Ask me about: Esther Perel, Moira Rose, Byredo perfumes and how Birkenstocks got me through the pandemic
