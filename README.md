@@ -13,4 +13,4 @@ ______
 - 🌟 I’m currently interested in the topic of cultivating a sense of community in remote work environments
 - 🌊 I'm forever interested in existentialism, sustainability, minimalism and dismantling heteropatriarchy 
 ______
-- 💬 Ask me about: Esther Perel, Moira Rose's style, Byredo perfumes and how socks&stocks got me through the pandemic
+- 💬 Ask me about: favorite Moira Rose's looks or how socks&stocks got me through the pandemic 🐾
