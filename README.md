@@ -13,6 +13,6 @@ My name is Anna (pronounced Ana) and I'm currently a software engineer at Github
 ______
 - 🌟 I’m currently interested in the topic of cultivating a sense of community in remote work environments
 - 🌊 I'm forever interested in existentialism, sustainability, minimalism, simplicity, anti-consumerism and dismantling heteropatriarchy 
-- 🖤 To me, you can never be too educated, too well-dressed or too communicative 
+- 🖤 To me, you can never be too educated, too humble, too kind, too communicative or too well-dressed
 ______
 - 💬 Ask me about: my favorite Moira Rose's looks or how socks&stocks got me through the pandemic 🐾
