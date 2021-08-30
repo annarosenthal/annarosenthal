@@ -1,7 +1,7 @@
 ### Hi there🍍
 
 
-My name is Anna (pronounced Ana) and I'm currently a software engineer at Github on the Actions Compute team.
+My name is Anna (pronounced Ana) and I'm currently a software engineer at GitHub on the Actions Compute team.
 
 - My favorite programming language is Go 🐨 and I'm generally interested in wrangling distributed systems 👩‍🔬
 - I like 🐱 and 🐶, ☕ and 🍵, 🌴 and 🌲, New York and LA 
