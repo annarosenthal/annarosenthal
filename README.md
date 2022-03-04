@@ -4,7 +4,7 @@
 My name is Anna (pronounced Ana) and I'm currently a software engineer at Github on the Dependency Graph team.
 
 - My favorite programming language is Go 🐨, followed by Rust, and I'm generally interested in wrangling distributed systems 👩‍🔬
-- I like 🐱 and 🐶, ☕ and 🍵, 🌴 and 🌲, New York and LA 
+- I like 🐱 and 🐶, ☕ and 🍵, 🌴 and 🌲, 🌊 and ⛰️, New York and LA 
 - 🗽 I'm a New Yorker and feel at home in 🧡Montreal and Berlin💛
 - 🎹 My favorite musicians are [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD?si=Np4V4UdYR06IuavEpN0JBQ), [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms?si=8BNLg3O-T3iVMHJo469G9A) and [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN?si=qil8FB-DQYyX3GFU9cEoqg)
 - 🍉 Clear and intentional (especially technical) written communication is my love language
